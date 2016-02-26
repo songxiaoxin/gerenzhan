@@ -933,8 +933,9 @@ a:hover {
 .ft-right {
     width: 410px;
     height: 184px;
-    background: url(../images/part6-2.png);
+    background: url(../images/二维.png) no-repeat;
     position: absolute;
+    
     left: 50%;
     top: 50%;
     margin-left: -205px;
