@@ -649,7 +649,8 @@ a:hover {
 }
 
 #d_tab29 .d_img li img {
-    width: 100%
+    width: 100%;
+    height: 276px;
 }
 
 #d_tab29 .d_img li.d_pos1 {
@@ -935,7 +936,7 @@ a:hover {
     height: 184px;
     background: url(../images/二维.png) no-repeat;
     position: absolute;
-    
+
     left: 50%;
     top: 50%;
     margin-left: -205px;
