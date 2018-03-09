@@ -970,8 +970,9 @@ a:hover {
     transition: all .5s ease 0s;
     text-decoration: none
 }
-
 .ft-right .ft-right-relative p span a:hover {
     color: #0f0
 }
-
+.lanren{
+    color:red;
+}
